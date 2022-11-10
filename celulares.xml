@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phoneStore>
+    <phone category="Calida-Precio">
+        <title lang="es">Xiaomi Redmi Note 7</title>
+        <model>Xiaomi</model>
+        <year>2019</year>
+        <price>$4000</price>
+        <colaboradores>
+            <productor>Chayomi</productor>
+            <procesador>Otra vez Chayomi</procesador>
+        </colaboradores>
+    </phone>
+    <phone category="Basados">
+        <title lang="es">One Plus 10</title>
+        <model>One Plus</model>
+        <year>2022</year>
+        <price>$18000</price>
+        <colaboradores>
+            <productor>One+</productor>
+            <procesador>snapDragon</procesador>
+        </colaboradores>
+    </phone>
+    <phone category="Caros que siguen siendo lo mismo siempre">
+        <title lang="es">IPhone 14</title>
+        <model>Iphone</model>
+        <year>2022</year>
+        <price>$28000</price>
+        <colaboradores>
+            <productor>IPhone</productor>
+            <procesador>Otra vez IPhone</procesador>
+        </colaboradores>
+    </phone>
+    <phone category="Samsungs :u">
+        <title lang="es">Samsung Galaxy Fold</title>
+        <model>Samsung</model>
+        <year>2022</year>
+        <price>$20000</price>
+        <colaboradores>
+            <productor>Samsung</productor>
+            <procesador>SnapDragon</procesador>
+        </colaboradores>
+    </phone>
+</phoneStore>

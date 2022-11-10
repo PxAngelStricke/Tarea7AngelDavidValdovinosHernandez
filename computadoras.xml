@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<piziGamer>
+    <pc>
+        <title lang="es">Asus TUF GAMING F15</title>
+        <model>F15</model>
+        <year>2018</year>
+        <price>$18000</price>
+        <colaboradores>
+            <productor>ASUS</productor>
+            <procesador>Intel</procesador>
+        </colaboradores>
+    </pc>
+    <pc>
+        <title lang="es">AlienWare</title>
+        <model>Marcianito</model>
+        <year>2022</year>
+        <price>$19000</price>
+        <colaboradores>
+            <productor>AlienWare</productor>
+            <procesador>Intel</procesador>
+        </colaboradores>
+    </pc>
+    <pc>
+        <title lang="es">AMD</title>
+        <model>Ryzen 7 4700X</model>
+        <year>2021</year>
+        <price>$28000</price>
+        <colaboradores>
+            <productor>AMD</productor>
+            <procesador>Radeon RX</procesador>
+        </colaboradores>
+    </pc>
+    <pc>
+        <title lang="es">AlienWare</title>
+        <model>Marcianito 2.0</model>
+        <year>2022</year>
+        <price>$20000</price>
+        <colaboradores>
+            <productor>AlienWare</productor>
+            <procesador>GeForce</procesador>
+        </colaboradores>
+    </pc>
+</piziGamer>

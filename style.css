@@ -1,0 +1,24 @@
+body{
+    background:linear-gradient(30deg, crimson,sienna, royalblue, indianred, purple); 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    background-size: cover;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+.contenedor{
+    text-align: center;
+}
+
+.btn{
+    border-radius: 8px;
+    background-color: greenyellow;
+}
+table,th,td {
+    border : 1px solid black;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+th,td {
+    padding: 5px;
+}
